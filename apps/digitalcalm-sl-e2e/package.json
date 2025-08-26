@@ -1,0 +1,10 @@
+{
+  "name": "@digitalcalm-sl/digitalcalm-sl-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@digitalcalm-sl/digitalcalm-sl"
+    ]
+  }
+}
